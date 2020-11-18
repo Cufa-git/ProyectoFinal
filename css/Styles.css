@@ -8,7 +8,7 @@ body {
 
 .container {
     width: 70%;
-    padding: 1em;
+    padding: 0.2em;
     text-align: center;
     border: 1px solid #ddd;
     margin: 0 auto;
@@ -35,4 +35,15 @@ body {
 
 .post {
     padding: 1rem;
+}
+
+
+/**Footer**/
+
+.footer {
+    font-size: 12px;
+    color: white;
+    font-weight: bolder;
+    background-color: cornflowerblue;
+    padding: 0.02rem;
 }
