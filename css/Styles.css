@@ -1,9 +1,21 @@
 body {
-    padding: 1em;
+    padding: 0em;
     color: rgb(53, 53, 53);
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.cabecera {
+    background: rgb(86, 86, 228);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 15, 0.75);
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    padding: .5em 0 0.5em 2em;
 }
 
 .container {
@@ -19,20 +31,19 @@ body {
     text-align: center;
 }
 
-.cabecera {
-    background-color: cornflowerblue;
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 15, 0.75);
-    font-size: 27px;
-    text-align: center;
-    font-weight: bold;
-    color: white;
+.logo1,
+.logo2,
+.logo3 {
+    width: 26px;
+    vertical-align: middle;
 }
 
 .cabecera span {
     font-weight: normal;
-    font-size: 24px;
+    font-size: 16px;
 }
 
 .post {
+    background: white;
     padding: 1rem;
 }
