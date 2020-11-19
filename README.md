@@ -11,3 +11,4 @@ El proyecto final luego de varias versiones
 * Lo basico de CSS3
 * Creado por Facundo Colina
 * Hecho Con Windows
+* Disponible en cualquier dispositivo
