@@ -9,3 +9,5 @@ El proyecto final luego de varias versiones
 * Algunos Trucos
 * Lo basico de HTML5
 * Lo basico de CSS3
+* Creado por Facundo Colina
+
